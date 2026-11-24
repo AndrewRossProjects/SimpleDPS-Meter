@@ -2,7 +2,7 @@
 Standalone damage meter add-on for Elder Scrolls Online
 
 # Current Version
-4.1.101052
+4.1.101052+1
 
 # Latest Support API Version
 101052
